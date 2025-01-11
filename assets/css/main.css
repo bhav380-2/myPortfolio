@@ -4689,3 +4689,41 @@ input, select, textarea {
 		}
 
 	}
+
+
+
+
+.proj-image-f{
+	height:25rem;
+}
+
+.proj-image{
+	width:15rem;
+	height:15rem;
+}
+
+#main .coding-profile-img{
+/* border:2px solid green; */
+	margin:auto;
+	width:15rem;
+	height:11.5rem;
+}
+
+@media(max-width:720px){
+	.proj-image-f{
+		height:auto;
+	}
+	
+	.proj-image{
+		width:15rem;
+		height:15rem;
+	}
+	
+	#main .coding-profile-img{
+	/* border:2px solid green; */
+		margin:auto;
+		width:15rem;
+		height:11.5rem;
+	}
+
+}
